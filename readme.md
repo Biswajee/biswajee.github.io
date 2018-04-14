@@ -1,5 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/Biswajee/biswajee.github.io.svg)](https://github.com/Biswajee/biswajee.github.io/issues)
 [![GitHub license](https://img.shields.io/github/license/Biswajee/biswajee.github.io.svg)](https://github.com/Biswajee/biswajee.github.io/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/Biswajee/biswajee.github.io.svg?branch=master)](https://travis-ci.org/Biswajee/biswajee.github.io)
 
 # Biswajee.github.io 
 
