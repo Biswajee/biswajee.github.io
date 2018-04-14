@@ -1,4 +1,7 @@
-# Biswajee.github.io
+[![GitHub issues](https://img.shields.io/github/issues/Biswajee/biswajee.github.io.svg)](https://github.com/Biswajee/biswajee.github.io/issues)
+[![GitHub license](https://img.shields.io/github/license/Biswajee/biswajee.github.io.svg)](https://github.com/Biswajee/biswajee.github.io/blob/master/LICENSE)
+
+# Biswajee.github.io 
 
 ## Repository information
 This repository contains the files that runs [this website](https://biswajee.github.io).
