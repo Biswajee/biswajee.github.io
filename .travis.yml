@@ -11,6 +11,7 @@ addons:
 before_script:
 - npm install web-component-tester
 - npm install bower
+- bower install
 - export PATH=$PWD/node_modules/.bin:$PATH
 script:
 - xvfb-run wct --skip-plugin sauce
