@@ -9,6 +9,10 @@ This repository contains the files that runs [this website](https://biswajee.git
 This website can be distributed freely with just a small credit of mention of the repository owner.
 The website contains an all round overview of the owner of the repository and related projects.
 
+## View a snapshot here
+
+![Alt text](images/screenshot.png?raw=true "Snapshot of GitHub website")
+
 ## License
 
 MIT License
